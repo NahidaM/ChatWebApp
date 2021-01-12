@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppSiqnalR", "WebAppSiqnalR\WebAppSiqnalR.csproj", "{C8279301-A294-486F-B389-DFF35FAE6A54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8279301-A294-486F-B389-DFF35FAE6A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8279301-A294-486F-B389-DFF35FAE6A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8279301-A294-486F-B389-DFF35FAE6A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8279301-A294-486F-B389-DFF35FAE6A54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB702F7F-AB34-4591-9C44-1F429AA4641C}
+	EndGlobalSection
+EndGlobal
